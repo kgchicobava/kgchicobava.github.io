@@ -648,8 +648,16 @@ footer {
     margin-top: 75px;
 }
 
+.feed a {
+    color: rgb(253, 62, 79);
+}
+
 .contacts {
     margin-top: 75px;
+}
+
+.contacts a {
+    color: black;
 }
 
 .copyright {
@@ -659,7 +667,8 @@ footer {
 }
 
 .copyright a{
-    text-decoration: none;
+    text-decoration: underline;
+    color: blue;
 }
 
 /*=========Up-button==============*/
