@@ -461,10 +461,6 @@ header button {
     transition: .3s;
 }
 
-.watch:hover {
-    transform: rotate(10deg);
-}
-
 .nike {
     background-image: url(img/nike.png);
     width: 600px;
@@ -472,10 +468,6 @@ header button {
     position: absolute;
     top: -200px;
     transition: .3s;
-}
-
-.nike:hover {
-    transform: rotate(-10deg);
 }
 
 .organic {
@@ -487,10 +479,6 @@ header button {
     left: 190px;
     transition: .3s;
 }
-.organic:hover {
-    transform: rotate(10deg);
-}
-
 /*======================Options=========================*/
 
 .options {
