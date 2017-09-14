@@ -1,3 +1,143 @@
-.options {
-    background-color: red;
+.hamburger {
+    display: block;
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    cursor: pointer;
 }
+
+nav ul li {
+    margin-top: 0;
+    margin-right: 0;
+    display: block;
+    font-size: 0;
+    
+}
+
+nav ul:first-child {
+    padding-top: 70px;
+}
+
+.social-media {
+    left: 45%;
+}
+
+header h1 {
+    font-size: 40px;
+}
+
+header h3 {
+    font-size: 20px;
+}
+
+.about-wrapper {
+    margin: 0 30px;
+}
+
+.about p {
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+
+.about button {
+    float: none;
+    margin-left: 37%;
+}
+
+.process-wrapper {
+    margin: 0 30px;
+}
+
+.description {
+    margin-right: 10px;
+}
+
+.team-wrapper {
+    margin: 0 30px;
+}
+
+.laptop-container  {
+
+}
+
+.text {
+    padding: 0 10px 0 10px;    
+}
+
+.collage-wrapper {
+    flex-direction: column;
+    margin: 0 30px;
+}
+
+.collage-text {
+    width: 100%;
+}
+
+.collage-text h2 {
+    padding-top: 50px;
+}
+
+.collage-img {
+    width: 100%;
+}
+
+.gredient {
+    margin-right: 100px;
+    margin-bottom: -520px;
+}
+
+.clock {
+    margin-bottom: -400px;
+}
+
+.watch {
+    margin-bottom: -490px;
+    margin-right: -36px;
+}
+
+.nike {
+    margin-top: 100px;
+}
+
+.organic {
+    margin-top: -50px;
+}
+
+.options-wrapper {
+    margin: 0 30px;
+    grid-template-columns: auto auto;
+}
+
+.options-text {
+    grid-row: 1/2;
+    grid-column: 1/3;
+}
+
+.options-text h2 {
+    font-size: 30px;
+    margin-top: 20px;
+    padding: 10px 0;
+}
+
+.options-text p {
+    margin-top: 0;
+    margin-right: 0;
+}
+
+.grids img {
+    margin-top: 40px;
+}
+
+.footer {
+    margin: 0 30px;
+}
+
+.copyright {
+    margin-top: 50px;
+}
+
+
+
+
+
+

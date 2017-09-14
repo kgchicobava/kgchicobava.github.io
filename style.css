@@ -9,6 +9,18 @@ h2 {
     line-height: 2;
 }
 
+.hamburger {
+    display: none;
+}
+
+.menu-ham {
+    font-size: 15px;
+}
+
+.header-active {
+    display: none;
+    opacity: 0;
+}
 
 /*=============Header===============*/
 
@@ -324,13 +336,6 @@ header button {
 .developer:hover .dev-grad {
     height: 100%;
 }
-
-/*
-.developer:hover .name p {
-    margin-top: -250px;
-    color: white;
-}
-*/
 
 .developer:hover .social {
     display: block;
