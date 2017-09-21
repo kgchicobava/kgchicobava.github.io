@@ -18,4 +18,16 @@ $(function(){
         $("header button").toggleClass("header-active");
         
     });
+
+    setTimeout(function() {
+        $(".warning").css("display", "block");        
+    }, 10000);
+    setTimeout(function() {
+        $(".warning").css("opacity", "1");
+    }, 12000);
+
+    $(".closewarning").click(function() {
+        $(".warning").css("display", "none");
+    });
+
 });

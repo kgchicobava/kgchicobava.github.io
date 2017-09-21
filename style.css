@@ -21,6 +21,30 @@ h2 {
     display: none;
     opacity: 0;
 }
+/* ============Warning==================== */
+.warning {
+    height: 150px;
+    width: 300px;
+    margin: 30px;
+    background-color: rgba(0, 0, 0, 0.7);
+    font-size: 16px;
+    color: white;
+    font-family: "Poppins Regular";
+    text-align: center;
+    position: fixed;
+    display: none;
+    opacity: 0;
+    transition: .5s;
+}
+
+.closewarning {
+    font-size: 35px;
+    position: absolute;
+    right: 20px;
+    bottom: 0px;
+    cursor: pointer;
+}
+
 
 /*=============Header===============*/
 
