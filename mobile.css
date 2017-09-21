@@ -127,6 +127,7 @@ header h1 {
 .laptop-container {
     margin-top: 700px;
     margin-left: -70px;
+    transform: scale(.6)
     
 }
 

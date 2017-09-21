@@ -1,0 +1,33 @@
+header {
+    background-size: contain;
+    height: 910px;
+}
+
+header h3 {
+    margin-top: 270px;
+}
+
+.process h5 {
+    font-size: 27px;
+}
+
+.description {
+    font-size: 20px;
+}
+
+.team {
+    height: 1000px;
+}
+.name p {
+    padding-top: 100px;
+}
+.dev-pic {
+    transform: scale(1.3);
+}
+
+.flex {
+    justify-content: space-around;
+}
+.developer:hover .social {
+    margin-top: -400px;
+}
