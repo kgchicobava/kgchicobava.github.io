@@ -280,7 +280,7 @@ header button {
     line-height: 200px;
 }
 
-.flex {
+.flex-team {
     display: flex;
 }
 
@@ -356,6 +356,10 @@ header button {
     background-repeat: no-repeat;
     width: 740px;
     height: 500px
+}
+
+.flex-projects {
+    display: flex;
 }
 
 .projects button {
