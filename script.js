@@ -20,14 +20,21 @@ $(function(){
     });
 
     setTimeout(function() {
+        if (window.innerWidth < 1280) {
+            clearTimeout();
+        } else {
         $(".warning").css("display", "block");        
-    }, 10000);
+    }}, 5000);
     setTimeout(function() {
+        if (window.innerWidth < 1280) {
+            clearTimeout();
+        } else {
         $(".warning").css("opacity", "1");
-    }, 12000);
-
+    }}, 6000);
+    
+    $(".social").remove();
+    
     $(".closewarning").click(function() {
         $(".warning").css("display", "none");
     });
-
 });
