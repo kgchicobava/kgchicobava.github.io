@@ -4,7 +4,8 @@ body {
 
 h2 {
     font-size: 40px;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     color: rgb(255, 255, 255);
     line-height: 2;
 }
@@ -29,7 +30,7 @@ h2 {
     background-color: rgba(0, 0, 0, 0.7);
     font-size: 16px;
     color: white;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     text-align: center;
     position: fixed;
     display: none;
@@ -71,13 +72,14 @@ header {
 
 .logo p:first-child {
     font-size: 30px;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     color: rgb(255, 255, 255);
 }
 
 .logo p:last-child {
     font-size: 18px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(255, 255, 255);
     float: right;
     margin-top: -20px;
@@ -91,7 +93,8 @@ nav {
 nav ul li {
     display: inline-block;
     font-size: 16px;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     color: rgb(255, 255, 255);
     line-height: 4;
     margin-right: 10px;
@@ -113,7 +116,7 @@ nav ul li {
 
 header h1 {
     font-size: 50px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(255, 255, 255);
     line-height: 1.2;
     text-align: center;
@@ -121,7 +124,8 @@ header h1 {
 
 header h3 {
     font-size: 25px;
-    font-family: "Poppins Light";
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
     color: rgb(255, 255, 255);
     line-height: 1.2;
     text-align: center;
@@ -139,7 +143,7 @@ header button {
     height: 60px;
     border: 0px;
     font-size: 20px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: #fff;
     line-height: 3;
     cursor: pointer;
@@ -180,7 +184,7 @@ header button {
 
 .about p {
     font-size: 35px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(255, 255, 255);
     margin-top: 40px;
 }
@@ -193,7 +197,7 @@ header button {
     border-radius: 30px;
     color: white;
     font-size: 20px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     margin-top: 20px;
     float: right;
     cursor: pointer;
@@ -225,7 +229,7 @@ header button {
 
 .process h5 {
     font-size: 20px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(92, 92, 92);
     line-height: 2.5;
     position: absolute;
@@ -235,7 +239,8 @@ header button {
 
 .number {
     font-size: 120px;
-    font-family: "Poppins Medium";
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
     color: #ffe2e7;
     position: absolute;
     margin-top: 70px;
@@ -245,7 +250,7 @@ header button {
 
 .description {
     font-size: 14px;
-    font-family: "Playfair Display";
+    font-family: "Playfair Display", serif;
     color: rgb(123, 123, 123);
     line-height: 1.5;
     text-align: left;
@@ -264,7 +269,8 @@ header button {
 .box:hover .number {
     font-size: 60px;
     color: white;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     z-index: 1;
 }
 
@@ -299,7 +305,8 @@ header button {
 
 .our-team-head p {
     font-size: 40px;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     color: rgb(34, 34, 34);
     line-height: 200px;
 }
@@ -335,7 +342,8 @@ header button {
 
 .name p {
     font-size: 20px;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     color: rgb(34, 34, 34);
     line-height: 2;
     text-align: center;
@@ -344,7 +352,7 @@ header button {
 
 .height p {
     font-size: 16px;
-    font-family: "Playfair Display";
+    font-family: "Playfair Display", serif;
     color: rgb(154, 154, 154);
     text-align: center;
 }
@@ -393,7 +401,7 @@ header button {
     height: 60px;
     border: 0px;
     font-size: 20px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: #fff;
     line-height: 3;
     cursor: pointer;
@@ -405,7 +413,8 @@ header button {
 
 .text h2 {
     font-size: 40px;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     color: rgb(34, 34, 34);
     line-height: 1.1;
 }
@@ -416,7 +425,7 @@ header button {
 
 .text p {
     font-size: 20px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(113, 113, 113);
     line-height: 1.2;
     padding: 50px 0;
@@ -441,7 +450,8 @@ header button {
 
 .collage-text h2{
     font-size: 40px;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     color: rgb(34, 34, 34);
     line-height: 1.3;
     margin-bottom: 40px;
@@ -454,7 +464,7 @@ header button {
 
 .collage-text p {
     font-size: 20px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(113, 113, 113);
     line-height: 1.3;
     padding-bottom: 20px;
@@ -533,7 +543,8 @@ header button {
 
 .options-text h2 {
     font-size: 40px;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     color: rgb(255, 255, 255);
     line-height: 1.5;
     padding: 40px 0;
@@ -547,7 +558,7 @@ header button {
 .options-text p {
     margin-top: 80px;
     font-size: 20px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(223, 223, 223);
     line-height: 1.5;
     margin-right: 10px;
@@ -559,14 +570,14 @@ header button {
 
 .grids p:nth-child(2){
     font-size: 20px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(255, 255, 255);
     line-height: 2.75;
 }
 
 .grids p:last-child {
     font-size: 14px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(225, 225, 225);
     margin-right: 20px;
 }
@@ -613,7 +624,7 @@ footer {
 
 .footer-text p {
     font-size: 14px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(82, 81, 81);
     line-height: 1.5;
     padding-right: 20px;
@@ -621,13 +632,15 @@ footer {
 
 .footer h5 {
   font-size: 18px;
-  font-family: "Poppins Bold";
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
   color: rgb(34, 34, 34);
 }
 
 .feed p:nth-child(2) {
     font-size: 16px;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     color: rgb(253, 62, 79);
     line-height: 1.75;
     padding: 20px 0;
@@ -635,7 +648,7 @@ footer {
 
 .feed p:last-child {
     font-size: 14px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(34, 34, 34);
     line-height: 1.7;
 }
@@ -643,21 +656,21 @@ footer {
 .contacts p {
     padding: 10px 0;
     font-size: 14px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(34, 34, 34);
 }
 
 .email {
     padding: 10px 0;
     font-size: 14px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(34, 34, 34);
 }
 
 .phone {
     padding: 0 0 10px 0;
     font-size: 14px;
-    font-family: "Poppins Regular";
+    font-family: "Poppins", sans-serif;
     color: rgb(34, 34, 34);
 }
 
@@ -683,7 +696,8 @@ footer {
 
 .copyright {
     text-align: center;
-    font-family: "Poppins Bold";
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
     color: #fd3e4f;
 }
 
@@ -716,4 +730,539 @@ footer {
 
 .top {
     display: block;
+}
+
+@media screen and (max-width: 768px){
+    .hamburger {
+        display: block;
+        position: absolute;
+        right: 10px;
+        top: 20px;
+        cursor: pointer;
+    }
+    
+    nav ul li {
+        margin-top: 0;
+        margin-right: 0;
+        display: block;
+        font-size: 0;
+        
+    }
+    
+    nav ul:first-child {
+        padding-top: 70px;
+    }
+    
+    .social-media {
+        left: 45%;
+    }
+    
+    header h1 {
+        font-size: 40px;
+    }
+    
+    header h3 {
+        font-size: 20px;
+    }
+    
+    .about-wrapper {
+        margin: 0 30px;
+    }
+    
+    .about p {
+        font-size: 25px;
+        padding-bottom: 30px;
+    }
+    
+    .about button {
+        float: none;
+        margin-left: 37%;
+    }
+    
+    .process-wrapper {
+        margin: 0 30px;
+    }
+    
+    .description {
+        margin-right: 10px;
+    }
+    
+    .team-wrapper {
+        margin: 0 30px;
+    }
+    
+    .laptop-container  {
+    
+    }
+    
+    .text {
+        padding: 0 10px 0 10px;    
+    }
+    
+    .collage-wrapper {
+        flex-direction: column;
+        margin: 0 30px;
+    }
+    
+    .collage-text {
+        width: 100%;
+    }
+    
+    .collage-text h2 {
+        padding-top: 50px;
+    }
+    
+    .collage-img {
+        width: 100%;
+    }
+    
+    .gredient {
+        margin-right: 100px;
+        margin-bottom: -520px;
+    }
+    
+    .clock {
+        margin-bottom: -400px;
+    }
+    
+    .watch {
+        margin-bottom: -490px;
+        margin-right: -36px;
+    }
+    
+    .nike {
+        margin-top: 100px;
+    }
+    
+    .organic {
+        margin-top: -50px;
+    }
+    
+    .options-wrapper {
+        margin: 0 30px;
+        grid-template-columns: auto auto;
+    }
+    
+    .options-text {
+        grid-row: 1/2;
+        grid-column: 1/3;
+    }
+    
+    .options-text h2 {
+        font-size: 30px;
+        margin-top: 20px;
+        padding: 10px 0;
+    }
+    
+    .options-text p {
+        margin-top: 0;
+        margin-right: 0;
+    }
+    
+    .grids img {
+        margin-top: 40px;
+    }
+    
+    .footer {
+        margin: 0 30px;
+    }
+    
+    .copyright {
+        margin-top: 50px;
+    }
+        
+}
+
+@media screen and (max-width: 420px) {
+    html {
+        overflow-x: none;
+    }
+    
+    body {
+        width: 100%;
+        overflow-x: hidden;
+    }
+    
+    header h3 {
+        margin-top: 80px;
+    }
+    
+    header h1 {
+        font-size: 30px;
+    }
+    
+    .logo {
+        margin-left: -5px;
+        margin-top: 20px;
+        transform: scale(.9);
+    }
+    
+    .social-media {
+        margin-left: -20px;
+        transform: scale(1.2)
+    }
+    .about {
+     height: 450px;   
+    }
+    
+    .about-wrapper {
+        margin: 0 10px;
+    }
+    
+    .about h2 {
+        padding-top: 20px;
+    }
+    
+    .about p {
+        margin-top: 10px;
+    }
+    
+    .about button {
+        margin-left: 100px
+    }
+    
+    .process {
+        height: 975px;
+    }
+    
+    .process-wrapper {
+        margin: 0 0;
+    }
+    
+    .wrap {
+        flex-direction: column;
+    }
+    
+    .process h5 {
+        font-size: 35px;
+    }
+    
+    .number {
+        font-size: 150px;
+    }
+    
+    .description {
+        font-size: 17px;
+    }
+    .team-wrapper {
+        margin: 0 10px;
+    }
+    
+    .flex-team {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .developer:hover .dev-grad {
+        height: 0;
+    }
+    
+    .developer:hover .social {
+        display: none;
+    }
+    
+    .social {
+        margin-left: 0;
+        display: none;
+    }
+    
+    .dev-pic {
+        height: 455px;
+        width: 360px;
+        background-size: cover;
+        margin-top: 30px;
+    }
+    
+    .flex-projects {
+         flex-direction: column;
+        align-content: flex-start;
+    }
+    
+    .text h2 {
+     width: 300px;   
+    }
+    
+    .collage {
+        height:1800px;
+    }
+    
+    .collage-text {
+        margin-top: 1000px;
+    }
+    
+    .collage-text h2 {
+        margin-top: -180px;
+    }
+    
+    .projects {
+        height: 1000px;
+    }
+    
+    .laptop-container {
+        transform: scale(.9);
+        margin-left: -150px;
+        margin-top: 650px;
+    }
+    
+    .text p{
+        margin-top: 50px;
+        width: 80%;
+        font-size: 18px;
+    }
+    
+    .text h2 {
+        margin-top: -40px;
+        margin-bottom: -50px;
+    }
+    
+    .collage-wrapper {
+        margin: 0 10px;;
+    }
+    
+    .organic {
+        margin-left: -200px;
+    }
+    
+    .clock {
+        display: block;
+    }
+    
+    .nike {
+        margin-left: -100px;
+    }
+    
+    .watch {
+        display: block;
+    }
+    .options {
+        height: 1850px;
+    }
+    .options-wrapper {
+        margin: 0 10px;
+        grid-template-columns: auto;
+    }
+    
+    .grids {
+        grid-column: 1;
+        width: 150%;
+        margin-top: -300px;
+    
+    }
+    .grids img {
+        margin-left: 45%;
+    }
+    
+    .grids p{
+        text-align: center;
+    }
+    
+    .footer {
+        margin: 0 10px;
+        grid-template-columns: auto;
+    }
+    
+    .foot {
+        background-color: white;
+        margin-top: -200px;
+    }
+    
+    .footer-logo {
+        margin-top: -230px;
+    }
+    
+    .footer h5 {
+        margin-top: -50px
+    }
+    
+    .copyright {
+        margin-top: 170px; 
+    }
+    
+    @media screen and (min-width: 320px) and (max-width: 400px) {
+        .about {
+            height: 500px;
+        }
+        
+        .about button {
+            margin-left: 80px;
+        }
+    }
+ 
+}
+
+@media screen and (max-width: 1024px){
+    body {
+        width: 100%;
+    }
+    .about button {
+        margin-top: -60px;
+        margin-right: 30px;
+    }
+    
+    .dev-pic {
+        width: 225px;
+        height: 275px;
+        background-size: contain;
+    }
+    
+    .social {
+        transform: scale(1);
+        margin-left: 80px;
+    }
+    
+    .developer:hover .social {
+        display: block;
+        margin-top: -220px;
+        z-index: 20;
+    }
+    
+    .team {
+        height: 700px;
+    }
+    
+    .laptop-container {
+        width: 500px;
+        height: 400px;
+        background-size: contain;
+    }
+    
+    .projects button {
+        transform: scale(.8);
+        margin: -20px;
+    }
+    
+    .text {
+        width: 400px;
+    }
+    
+    .text h2 {
+        font-size: 30px;
+    }
+    
+    .projects {
+        height: 650px;
+    }
+    .gredient, .clock, .watch, .nike, .organic {
+        background-size: contain;
+    }
+    
+    .gredient {
+        width: 250px;
+        height: 270px;
+        right: 50px;
+        bottom: 100px;
+    }
+    
+    .clock {
+        width: 250px;
+        height: 120px;
+        bottom: 0px;
+        left: 30px;
+        transform: scale(1.3);
+    }
+    
+    .watch {
+        width: 290px;
+        height: 355px;
+        bottom: 120px;
+        right: 50px;
+        transform: scale(1.3);
+    }
+    
+    .nike {
+        width: 350px;
+        height: 370px;
+        transform: scale(1.4);
+        top: -80px;
+    }
+    
+    .organic {
+        width: 285px;
+        height: 320px;
+        transform: scale(1.3);   
+    }
+    
+    .collage-text h2 {
+        font-size: 30px;
+        padding-top: 100px;
+    }
+    
+    .collage-text p {
+        font-size: 17px;
+    }
+    
+    .collage-img {
+    }
+    
+    .foot {
+        height: 250px;
+    }
+    
+}
+
+@media screen and (min-width: 1900px) {
+    header {
+        background-size: contain;
+        height: 910px;
+    }
+    
+    header h3 {
+        margin-top: 270px;
+    }
+    
+    .process h5 {
+        font-size: 27px;
+    }
+    
+    .description {
+        font-size: 20px;
+    }
+    
+    .team {
+        height: 1000px;
+    }
+    .name p {
+        padding-top: 100px;
+    }
+    .dev-pic {
+        transform: scale(1.3);
+    }
+    
+    .flex-team {
+        justify-content: space-around;
+    }
+    .developer:hover .social {
+        margin-top: -400px;
+    }
+    
+    .text {
+        width: 50%;
+    }
+    
+    .gredient {
+        right: 300px;
+    }
+    
+    .clock {
+        bottom: -150px;
+        left: -180px;
+    }
+    
+    .options-text h2 {
+        margin-right: 20px;
+        margin-top: 130px;
+    }
+    
+    .options-text p {
+        margin-top: 150px;
+        margin-right: 20px;
+    }
+    
+    .grids p:nth-child(2){
+        font-size: 24px;
+    }
+    
+    .grids p:last-child {
+        font-size: 18px;
+    }
 }
