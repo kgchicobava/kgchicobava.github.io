@@ -16,8 +16,7 @@ $(function(){
         $("header h1").toggleClass("header-active");
         $("header h3").toggleClass("header-active");
         $("header button").toggleClass("header-active");
-        
-    });
+            });
 
     setTimeout(function() {
         if (window.innerWidth < 1280) {
